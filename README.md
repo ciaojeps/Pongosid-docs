@@ -1,61 +1,42 @@
-# PongoSID Documentation
+# PongoSID
 
-PongoSID is a cloud workflow platform for managing SID-related operational processes for Italian financial reporting contexts.
+PongoSID è un modulo dell’ecosistema PongoFin pensato per supportare professionisti, intermediari e organizzazioni nella gestione dei flussi collegati alla comunicazione dei rapporti finanziari e ai processi SID.
 
-This repository contains public technical documentation, integration notes, workflow descriptions, and security-oriented information for PongoSID.
+Sito ufficiale: [https://pongofin.com](https://pongofin.com)
 
-The goal of this documentation is to explain, in a clear and verifiable way, how PongoSID supports structured workflows around:
+## Cos’è PongoSID
+
+PongoSID nasce per semplificare attività operative che richiedono ordine, controllo e tracciabilità.
+
+L’obiettivo è offrire uno strumento cloud chiaro e utilizzabile per gestire workflow, documenti e procedure collegate all’ambito SID, senza sostituire il ruolo del professionista o dell’intermediario responsabile.
+
+## A chi si rivolge
+
+PongoSID può essere utile a:
+
+- studi professionali;
+- commercialisti;
+- intermediari;
+- società e organizzazioni che gestiscono obblighi o processi collegati ai rapporti finanziari;
+- realtà che vogliono digitalizzare procedure oggi gestite in modo manuale o frammentato.
+
+## Ambiti principali
 
 - Comunicazione dei rapporti finanziari
-- SID operational workflows
-- REI and anti-money-laundering support flows
-- Cloud-based document and data processing
-- API-based integrations
-- PEC-oriented delivery processes
-- GDPR-aware data governance
+- Workflow SID
+- Supporto operativo documentale
+- Tracciabilità delle attività
+- Gestione cloud dei processi
+- Integrazione con l’ecosistema PongoFin
 
-PongoSID is part of the broader PongoFin ecosystem.
+## Documentazione
 
-## What PongoSID is
+Questa repository raccoglie informazioni pubbliche essenziali su PongoSID.
 
-PongoSID is designed as a workflow and software layer for professionals, intermediaries, and organizations that need to manage structured financial communication processes in Italy.
+Per informazioni commerciali, tecniche o di partnership:
 
-It focuses on operational efficiency, traceability, file preparation, validation workflows, controlled delivery steps, and integration with existing business processes.
+[io@giampietropregnolato.com](mailto:io@giampietropregnolato.com)
 
-## What this repository contains
+## Nota
 
-- Public product documentation
-- SID workflow explanation
-- REI workflow explanation
-- Cloud architecture overview
-- Security and GDPR documentation
-- API overview
-- Frequently asked questions
-- Italy-specific SID software notes
-
-## What this repository does not contain
-
-This repository does not contain proprietary application code, production credentials, private infrastructure configuration, fiscal logic that should remain confidential, customer data, or internal compliance records.
-
-## Documentation index
-
-- [SID workflow](docs/sid-workflow.md)
-- [REI workflow](docs/rei-workflow.md)
-- [Cloud architecture](docs/cloud-architecture.md)
-- [Security and GDPR](docs/security-gdpr.md)
-- [API overview](docs/api-overview.md)
-- [FAQ](docs/faq.md)
-- [SID software in Italy](docs/comparisons/sid-software-italy.md)
-- [OpenAPI draft](openapi/pongosid-api.yaml)
-
-## Main keywords
-
-PongoSID, PongoFin, SID software, comunicazione rapporti finanziari, Agenzia delle Entrate SID, software comunicazione rapporti finanziari, REI antiriciclaggio, financial reporting software Italy, cloud compliance workflow, Italian financial reporting platform.
-
-## License
-
-Documentation and content are provided under the license included in this repository, unless otherwise stated.
-
-## Disclaimer
-
-This documentation is informational and technical in nature. It is not legal, tax, accounting, or regulatory advice. Users should validate their obligations with qualified professionals and applicable official sources.
+Questa documentazione ha finalità informative. Non costituisce consulenza legale, fiscale, contabile o regolamentare. Ogni organizzazione deve verificare i propri obblighi con professionisti qualificati e fonti ufficiali applicabili.

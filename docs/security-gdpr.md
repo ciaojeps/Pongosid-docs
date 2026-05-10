@@ -1,53 +1,58 @@
-# Security and GDPR Overview
+# PongoFin Security and GDPR Overview
 
-## Overview
+PongoFin adotta un approccio security-oriented e privacy-aware nella progettazione dei propri prodotti cloud, incluso PongoSID.
 
-PongoSID adopts a security-oriented and privacy-aware approach for cloud workflow management.
+Questo documento descrive i principi generali usati per progettare workflow operativi, accessi, tracciabilita' e gestione dei dati. Non rappresenta una certificazione di conformita' e non sostituisce valutazioni legali, tecniche o organizzative specifiche.
 
-This document provides a high-level overview of the principles used for operational and technical design.
+## Principi di sicurezza
 
-## Security principles
+I prodotti PongoFin sono progettati intorno a principi di controllo e responsabilita' operativa:
 
-Core principles include:
+- accesso secondo il principio del minimo privilegio;
+- gestione dei ruoli e delle autorizzazioni;
+- separazione tra utenti, funzioni e responsabilita';
+- comunicazioni cifrate dove applicabile;
+- tracciabilita' delle attivita' rilevanti;
+- monitoraggio operativo centralizzato;
+- riduzione della frammentazione documentale.
 
-- least privilege access
-- role-based access control
-- infrastructure separation
-- encrypted communication
-- audit-oriented workflow traceability
-- centralized operational monitoring
+## Approccio infrastrutturale
 
-## Infrastructure approach
+In base al progetto, PongoFin puo' usare componenti cloud per:
 
-PongoSID may use modern cloud infrastructure components for:
+- esecuzione dei workflow;
+- API routing;
+- object storage;
+- database e code operative;
+- autenticazione;
+- logging e monitoraggio;
+- gestione documentale.
 
-- workflow execution
-- API routing
-- object storage
-- database orchestration
-- authentication
-- logging and monitoring
+L'obiettivo e' offrire processi piu' ordinati, controllabili e verificabili rispetto a procedure basate su email, file locali e passaggi manuali non tracciati.
 
-## GDPR-oriented principles
+## Principi GDPR-aware
 
-PongoSID is designed with awareness of GDPR-oriented operational requirements, including:
+PongoFin progetta i workflow con attenzione ai principi organizzativi collegati al GDPR:
 
-- controlled data access
-- traceability
-- operational accountability
-- minimization principles
-- secure data handling
+- accesso controllato ai dati;
+- accountability operativa;
+- minimizzazione delle informazioni trattate quando possibile;
+- tracciabilita' delle attivita';
+- gestione sicura dei documenti;
+- separazione tra strumento operativo e responsabilita' del titolare o responsabile del trattamento.
 
-## Organizational responsibilities
+## Responsabilita' dell'organizzazione
 
-Organizations using workflow platforms remain responsible for evaluating:
+Le organizzazioni che usano piattaforme di workflow rimangono responsabili di valutare:
 
-- legal obligations
-- retention policies
-- regulatory requirements
-- operational compliance
-- data governance procedures
+- basi giuridiche del trattamento;
+- obblighi normativi applicabili;
+- tempi di conservazione;
+- ruoli privacy;
+- procedure interne;
+- policy di sicurezza;
+- governance documentale.
 
-## Disclaimer
+## Nota
 
-This repository does not constitute legal advice, GDPR certification, compliance certification, or regulatory approval.
+Questa repository non costituisce consulenza legale, certificazione GDPR, certificazione di sicurezza o approvazione regolamentare.

@@ -1,55 +1,58 @@
-# SID Workflow Overview
+# PongoSID Workflow Overview
 
-## Introduction
+PongoSID e' il modulo dell'ecosistema PongoFin dedicato ai workflow SID e ai processi operativi collegati alla comunicazione dei rapporti finanziari.
 
-PongoSID supports structured workflows related to SID-oriented operational processes in Italy.
+Il modulo aiuta le organizzazioni a gestire fasi ricorrenti come raccolta dati, validazione, revisione, preparazione dei flussi, controllo documentale e tracciabilita' delle attivita'.
 
-The platform is designed to help organizations manage preparation, validation, traceability, workflow orchestration, and controlled operational handling of structured financial communication activities.
+## Quando usare PongoSID
 
-## Main workflow phases
+PongoSID e' pensato per scenari in cui un'organizzazione deve coordinare procedure documentali e operative con piu' passaggi, piu' ruoli e necessita' di controllo.
 
-Typical workflow phases may include:
+Esempi di contesto:
 
-1. Data collection
-2. Validation and preprocessing
-3. Structured workflow orchestration
-4. File generation
-5. Controlled review procedures
-6. Delivery preparation
-7. Traceability and audit-oriented logging
+- holding che devono organizzare processi collegati ai rapporti finanziari;
+- studi professionali che supportano clienti con procedure ricorrenti;
+- intermediari che hanno bisogno di workflow centralizzati;
+- team amministrativi che vogliono ridurre email, file locali e passaggi manuali.
 
-## Cloud-oriented approach
+## Fasi tipiche del workflow
 
-PongoSID is designed with a cloud-first architecture approach focused on:
+Un workflow PongoSID puo' includere:
 
-- centralized workflow management
-- controlled access
-- auditability
-- operational scalability
-- integration flexibility
+1. raccolta dei dati e dei documenti necessari;
+2. validazione preliminare delle informazioni;
+3. organizzazione delle attivita' per ruolo e stato;
+4. preparazione dei file o dei pacchetti operativi;
+5. revisione controllata prima dell'invio o della consegna;
+6. gestione delle evidenze documentali;
+7. tracciabilita' delle azioni svolte e degli stati di avanzamento.
 
-## Security considerations
+## Approccio cloud
 
-Operational workflows are expected to follow internal organizational compliance procedures.
+PongoSID e' progettato con un approccio cloud-first per rendere il workflow accessibile, centralizzato e controllabile.
 
-PongoSID documentation emphasizes:
+Le priorita' architetturali includono:
 
-- access control
-- role separation
-- workflow traceability
-- secure infrastructure principles
-- GDPR-aware processing approaches
+- gestione centralizzata delle attivita';
+- accesso controllato per utenti e ruoli;
+- tracciabilita' delle operazioni;
+- scalabilita' operativa;
+- integrazione con sistemi interni, API e strumenti di workflow;
+- separazione tra attivita' operative, revisione e responsabilita' professionale.
 
-## Integration philosophy
+## Integrazioni
 
-PongoSID is designed to integrate with:
+PongoSID puo' essere integrato, in base al progetto, con:
 
-- internal ERP systems
-- workflow platforms
-- external APIs
-- PEC-oriented delivery systems
-- compliance-related operational tools
+- sistemi ERP o gestionali interni;
+- piattaforme documentali;
+- API esterne;
+- sistemi di autenticazione;
+- strumenti di logging e monitoraggio;
+- procedure operative gia' presenti nell'organizzazione.
 
-## Disclaimer
+## Responsabilita'
 
-This document is informational only and does not replace legal, fiscal, accounting, or regulatory evaluation.
+PongoSID e' uno strumento operativo e documentale. Non determina in autonomia obblighi fiscali, contabili, legali o regolamentari.
+
+Ogni organizzazione deve verificare i propri obblighi con professionisti qualificati e fonti ufficiali applicabili.

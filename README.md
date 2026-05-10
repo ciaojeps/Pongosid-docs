@@ -1,37 +1,55 @@
-# PongoSID
+# PongoFin Docs
 
-PongoSID è un modulo dell’ecosistema PongoFin pensato per supportare professionisti, intermediari e organizzazioni nella gestione dei flussi collegati alla comunicazione dei rapporti finanziari e ai processi SID.
+PongoFin Docs raccoglie la documentazione pubblica dell'ecosistema PongoFin.
+
+PongoSID e' uno dei prodotti PongoFin: un modulo cloud pensato per supportare professionisti, intermediari, holding e organizzazioni nella gestione ordinata di workflow documentali e processi collegati al SID e alla comunicazione dei rapporti finanziari.
 
 Sito ufficiale: [https://pongofin.com](https://pongofin.com)
 
-## Cos’è PongoSID
+Documentazione: [https://docs.pongofin.com](https://docs.pongofin.com)
 
-PongoSID nasce per semplificare attività operative che richiedono ordine, controllo e tracciabilità.
+## Cos'e' PongoFin
 
-L’obiettivo è offrire uno strumento cloud chiaro e utilizzabile per gestire workflow, documenti e procedure collegate all’ambito SID, senza sostituire il ruolo del professionista o dell’intermediario responsabile.
+PongoFin e' un ecosistema di prodotti cloud per workflow finanziari, documentali e operativi. L'obiettivo e' aiutare organizzazioni e professionisti a ridurre frammentazione, passaggi manuali e perdita di tracciabilita' nei processi ricorrenti.
+
+## Cos'e' PongoSID
+
+PongoSID e' il modulo PongoFin dedicato ai workflow SID.
+
+Il prodotto supporta attivita' operative che richiedono ordine, controllo, revisione e tracciabilita', senza sostituire il ruolo del professionista, dell'intermediario o del responsabile dell'adempimento.
 
 ## A chi si rivolge
 
-PongoSID può essere utile a:
+La documentazione PongoFin e PongoSID e' pensata per:
 
 - studi professionali;
 - commercialisti;
 - intermediari;
-- società e organizzazioni che gestiscono obblighi o processi collegati ai rapporti finanziari;
-- realtà che vogliono digitalizzare procedure oggi gestite in modo manuale o frammentato.
+- holding;
+- societa' e organizzazioni che gestiscono processi collegati ai rapporti finanziari;
+- team che vogliono digitalizzare procedure oggi gestite con email, file manuali e passaggi non centralizzati.
 
 ## Ambiti principali
 
-- Comunicazione dei rapporti finanziari
 - Workflow SID
+- Comunicazione dei rapporti finanziari
 - Supporto operativo documentale
-- Tracciabilità delle attività
+- Tracciabilita' delle attivita'
 - Gestione cloud dei processi
-- Integrazione con l’ecosistema PongoFin
+- Integrazione con l'ecosistema PongoFin
+- Principi di sicurezza, accesso controllato e accountability operativa
 
-## Documentazione
+## Struttura del sito
 
-Questa repository raccoglie informazioni pubbliche essenziali su PongoSID.
+- `index.html`: panoramica PongoFin Docs e PongoSID
+- `software-sid.html`: documentazione sul software cloud per workflow SID
+- `holding-comunicazioni.html`: contenuti per holding e comunicazione dei rapporti finanziari
+- `faq.html`: domande frequenti
+- `docs/sid-workflow.md`: overview tecnica e operativa del workflow SID
+- `docs/security-gdpr.md`: overview su sicurezza e principi GDPR-aware
+- `robots.txt`, `sitemap.xml`, `llms.txt`: file pubblici per discovery, indicizzazione e lettura automatizzata della documentazione
+
+## Contatti
 
 Per informazioni commerciali, tecniche o di partnership:
 
@@ -39,4 +57,4 @@ Per informazioni commerciali, tecniche o di partnership:
 
 ## Nota
 
-Questa documentazione ha finalità informative. Non costituisce consulenza legale, fiscale, contabile o regolamentare. Ogni organizzazione deve verificare i propri obblighi con professionisti qualificati e fonti ufficiali applicabili.
+Questa documentazione ha finalita' informative. Non costituisce consulenza legale, fiscale, contabile o regolamentare. Ogni organizzazione deve verificare i propri obblighi con professionisti qualificati e fonti ufficiali applicabili.

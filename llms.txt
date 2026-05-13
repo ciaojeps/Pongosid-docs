@@ -28,7 +28,7 @@ PongoFin Docs raccoglie la documentazione pubblica di PongoFin e del modulo Pong
 ## Contact
 
 - Website: https://pongofin.com/
-- Email: io@giampietropregnolato.com
+- Email: hello@pongofin.com
 
 ## Compliance note
 

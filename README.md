@@ -53,7 +53,7 @@ La documentazione PongoFin e PongoSID e' pensata per:
 
 Per informazioni commerciali, tecniche o di partnership:
 
-[io@giampietropregnolato.com](mailto:io@giampietropregnolato.com)
+[hello@pongofin.com](mailto:hello@pongofin.com)
 
 ## Nota
 

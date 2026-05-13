@@ -1,29 +1,35 @@
 # PongoFin Docs
 
-> PongoFin Docs raccoglie la documentazione pubblica dell'ecosistema PongoFin. PongoSID e' il prodotto PongoFin dedicato ai workflow SID, alla comunicazione dei rapporti finanziari e alla gestione documentale tracciabile.
+PongoFin Docs raccoglie la documentazione pubblica di PongoFin e del modulo PongoSID.
 
-## Sito
+## Canonical origin
+
+- https://docs.pongofin.com/
+
+## Primary pages
 
 - Home: https://docs.pongofin.com/
-- PongoSID: https://docs.pongofin.com/software-sid.html
+- PongoSID software overview: https://docs.pongofin.com/software-sid.html
 - Holding e comunicazione rapporti finanziari: https://docs.pongofin.com/holding-comunicazioni.html
 - FAQ: https://docs.pongofin.com/faq.html
 
-## Documenti tecnici
+## Technical references
 
 - Workflow PongoSID: https://docs.pongofin.com/docs/sid-workflow.md
 - Sicurezza e principi GDPR-aware: https://docs.pongofin.com/docs/security-gdpr.md
 
-## Entita' principali
+## Entity summary
 
-- PongoFin: ecosistema di prodotti cloud per workflow finanziari, documentali e operativi.
-- PongoSID: modulo PongoFin per workflow SID, comunicazione dei rapporti finanziari, holding, studi professionali e intermediari.
+- Brand: PongoFin
+- Product: PongoSID
+- Domain scope: workflow SID, comunicazione rapporti finanziari, processi documentali tracciabili
+- Intended audience: holding, studi professionali, intermediari
 
-## Contatti
+## Contact
 
-- Sito PongoFin: https://pongofin.com/
+- Website: https://pongofin.com/
 - Email: io@giampietropregnolato.com
 
-## Nota
+## Compliance note
 
-La documentazione ha finalita' informative e non costituisce consulenza legale, fiscale, contabile o regolamentare.
+I contenuti hanno finalita' informative e non costituiscono consulenza legale, fiscale, contabile o regolamentare.
